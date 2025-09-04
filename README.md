@@ -63,13 +63,13 @@ Context API (for theme toggle)
 ## Screenshots
 
 ### Salary Page
-![Salary Page](assets/Salaryfy_1_dashboard.png)
+![Salary Page](src/assets/Salaryfy_1_dashboard.png)
 
 ### Tax Page
-![Tax Page](assets/tax_info.png)
+![Tax Page](src/assets/tax_info.png)
 
 ### Tax page working
-![Tax Page](assets/tax_info_working.png)
+![Tax Page](src/assets/tax_info_working.png)
 
 ### Financial Education
-![Tax Page](assets/financial_education.png)
+![Tax Page](src/assets/financial_education.png)
